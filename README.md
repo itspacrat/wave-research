@@ -1,4 +1,4 @@
-# Wave Research
+# wrpc - (W)ave (R)esearch (p)roof-of-(c)oncept util
 ## navigation
 - [about](#about)
 - [features](#features)
